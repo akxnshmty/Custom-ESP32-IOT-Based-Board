@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "digikey-kicad-library-master")(type "KiCad")(uri "/Users/aakankshmohanty/Desktop/KiCad/Library/digikey-kicad-library-master")(options "")(descr ""))
+  (lib (name "ESP32 Project Footprints")(type "KiCad")(uri "${KIPRJMOD}/Libraries/Footprints")(options "")(descr ""))
+)

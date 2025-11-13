@@ -1,0 +1,1 @@
+[('PWR', '/Users/aakankshmohanty/Desktop/Projects/PCB design/Files/ESP 32 demo project/LTST-C170KRKT.stp'), ('C12', '/Users/aakankshmohanty/Desktop/Projects/PCB design/Files/ESP 32 demo project/T491A106K010AT7280.stp'), ('LED1', '/Users/aakankshmohanty/Desktop/Projects/PCB design/Files/ESP 32 demo project')]

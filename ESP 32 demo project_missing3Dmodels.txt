@@ -1,0 +1,12 @@
+### Missing 3D models - created on 2025-11-13 23:39
+### Printed by checking_3D_models plugin
+Board file: /Users/aakankshmohanty/Desktop/Projects/PCB design/Files/ESP 32 demo project/ESP 32 demo project.kicad_pcb
+3D missing models written to:
+/Users/aakankshmohanty/Desktop/Projects/PCB design/Files/ESP 32 demo project/ESP 32 demo project_missing3Dmodels.txt
+-------
+('PWR', '/Users/aakankshmohanty/Desktop/Projects/PCB design/Files/ESP 32 demo project/LTST-C170KRKT.stp')
+('C12', '/Users/aakankshmohanty/Desktop/Projects/PCB design/Files/ESP 32 demo project/T491A106K010AT7280.stp')
+('LED1', '/Users/aakankshmohanty/Desktop/Projects/PCB design/Files/ESP 32 demo project')
+-------
+NUM of 3D missing models:3
+checked extensions ['.stp', '.step', '.stpZ']
